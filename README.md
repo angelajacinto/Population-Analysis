@@ -1,4 +1,4 @@
-📌 **README.md – Population Analysis**
+📌 ## **README.md – Population Analysis**
 # Population Analysis with Python
 
 ## Overview  
@@ -23,7 +23,7 @@ Ensure you have **Python 3** installed, then install dependencies:
 ```bash
 pip install pandas matplotlib seaborn ipywidgets
 ```
-📌 **File Structure**
+## **File Structure**
 📂 Population-Analysis  
  ├── 📄 population_analysis.py       # Main script for data processing  
  ├── 📄 population_analysis_demo.ipynb  # Jupyter Notebook demo  
@@ -32,8 +32,8 @@ pip install pandas matplotlib seaborn ipywidgets
  ├── 📂 results/                      # Output CSVs and visualizations  
  ├── 📄 README.md                     # Project documentation  
  ├── 📄 .gitignore                     # Ignoring unnecessary files  
-
-📌 **Key Takeaways**
+  
+## **Key Takeaways**
 ✔ High standard error in Asia & Northern America means population varies significantly across countries.
 ✔ High cosine similarity in Oceania & Latin America means population size and land area are closely linked.
 ✔ Europe has a lower cosine similarity, indicating small but densely populated countries.

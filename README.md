@@ -34,6 +34,6 @@ pip install pandas matplotlib seaborn ipywidgets
  ├── 📄 .gitignore                     # Ignoring unnecessary files  
   
 ## **Key Takeaways**
-✔ High standard error in Asia & Northern America means population varies significantly across countries.
-✔ High cosine similarity in Oceania & Latin America means population size and land area are closely linked.
-✔ Europe has a lower cosine similarity, indicating small but densely populated countries.
+✔ High standard error in Asia & Northern America means population varies significantly across countries.  
+✔ High cosine similarity in Oceania & Latin America means population size and land area are closely linked.  
+✔ Europe has a lower cosine similarity, indicating small but densely populated countries.  

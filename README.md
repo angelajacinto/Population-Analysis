@@ -1,4 +1,4 @@
-📌 ## **README.md – Population Analysis**
+📌 **README.md – Population Analysis**
 # Population Analysis with Python
 
 ## Overview  
